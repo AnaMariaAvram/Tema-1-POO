@@ -1,3 +1,6 @@
+#pupici de la 131.
+
+
 #include <Numar_Complex.h>
 #include <Matrice_Complexa.h>
 #include <fstream>
